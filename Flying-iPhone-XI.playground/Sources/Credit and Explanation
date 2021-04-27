@@ -1,0 +1,37 @@
+This document is a credit/explanation for third-party open source licensed code, public domain images and public domain sounds that I used.
+* All names in this list are the original names from the source. I rename all of them for simplicity in this swift playground.
+
+#1 User interface tone, select, digital button sound effect
+Source: (Commons 0 License) https://www.zapsplat.com/music/user-interface-tone-select-digital-button/
+Explanation: I used the sound effect for giving the user a feedback. It also makes my playground more vivid.
+
+#2 Bebas Neue Regular font
+Source: (Ryoichi Tsunekawa, Open Source font for both personal / commercial use) https://fonts.adobe.com/fonts/bebas-neue#fonts-section
+Explanation: I used the font in the main title for a bold feel. It also attracts the user's attention. 
+
+#3 Swift logo.svg
+Source: (Public domain) https://commons.wikimedia.org/wiki/File:Swift_logo.svg
+Explanation: Swift logo is shaped like a bird. I use Swift logo as "bird attack". It's just for fun (as a Swift programmar).
+
+#4 beep4.wav
+Source: (Creative Commons 0 License) https://freesound.org/people/thisusernameis/sounds/426888/
+Explanation: I used the sound effect for giving the user a feedback when the iPhone bumps into the border.
+
+#5 crow1.wav
+Source: (Creative Commons 0 License) https://freesound.org/people/neufv/sounds/54973/
+Explanation: I used the sound effect to give the user a feedback when the iPhone hits a bird
+
+#6 camera shutter.wav
+Source: (Creative Commons 0 License) https://freesound.org/people/Negraovictor/sounds/394354/
+Explanation: I used the sound effect to give the user a feedback when the iPhone hits a photo
+
+#7 winning.wav
+Source:(Creative Commons 0 License) https://freesound.org/people/unadamlar/sounds/341984/
+Explanation: a win sound effect that is played when the user completes the mission.
+
+#8 Film Sounds/Movie Sounds » Fail Sound Effect - Accoustic Guitar
+Source: (Creative Commons 0 License) https://freesound.org/people/florianreichelt/sounds/412427/
+Explanation: a lose sound effect that is played when the user fails the mission.
+
+*** All other codes, sound effects, and images are created or recorded by myself as an individual.***
+
