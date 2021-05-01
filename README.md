@@ -10,10 +10,15 @@ Use the mouse pointer to control the flying iPhone. Take 5 pictures, while avoid
 Click [Here](https://youtu.be/wA7C0bWQd6o) to watch a video demo on my YouTube channel.
 
 ## Screenshots
+Launch Screen
 ![Image 1](https://i.imgur.com/QGKkk48.jpg)
+Instructions
 ![Image 2](https://i.imgur.com/a0Izce4.jpg)
+Gameplay
 ![Image 3](https://i.imgur.com/7L849E4.jpg)
+Failed
 ![Image 4](https://i.imgur.com/gVx5TWP.jpg)
+Success
 ![Image 5](https://i.imgur.com/Q5krjDv.jpg)
 
 ## Note:
